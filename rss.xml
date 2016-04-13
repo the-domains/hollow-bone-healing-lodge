@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hollow Bone Healing Lodge]]></title>
         <description><![CDATA[Hollow Bone Healing Lodge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hollow-bone-healing-lodge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 20:24:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 20:31:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hollow-bone-healing-lodge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a6e8bfe-7250-47ac-9ae8-fd87528e13f6.jpg">]]></description>
-            <link>undefined64873954-2d9a-4c8d-8826-8cb2b7f441cc/index.html</link>
+            <link>https://thegrid.ai/hollow-bone-healing-lodge/64873954-2d9a-4c8d-8826-8cb2b7f441cc/index.html</link>
             <guid isPermaLink="false">64873954-2d9a-4c8d-8826-8cb2b7f441cc</guid>
-            <pubDate>Wed, 13 Apr 2016 20:24:39 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 20:31:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
