@@ -1,0 +1,28 @@
+name: Hollow Bone Healing Lodge
+favicon: null
+layout_spectrum: 0.672928468324244
+typography_spectrum: 0.035946534713730216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.08323868573643267
+  lightness: 0.7674898179247975
+  saturation: 0.8057961717713624
+  rhythmicContrast: 0.5351183069869876
+purpose: []
